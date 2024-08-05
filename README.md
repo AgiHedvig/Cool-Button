@@ -1,6 +1,1 @@
-# Cool-Button
-# Cool-Button
-# Cool-Button
-# Cool-Button
-# Cool-Button
-# Cool-Button
+Its a cool button
